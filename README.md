@@ -12,7 +12,7 @@ clear definition of databases and what they do(db fundamentals)
 **Control redundancy**
 **Allow data independence**
 
-###Classifcations 
+###Classifications 
 ####Relational databases
 relational database  treats all data as a collection of related data. It has attributes like minimum redundancy, referential integrity, database keys.
 The ACID model (guarantee of successful transactions):
